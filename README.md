@@ -12,7 +12,7 @@
 
 - 📫 Como pode me contatar **victormartinssantos.work@gmail.com**
 
-<h3 align="left">Conectar comigo:</h3>
+<h3 align="left">Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/victormartinssantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victormartinssantos/" height="30" width="40" /></a>
 </p>
