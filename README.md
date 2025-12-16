@@ -61,7 +61,6 @@ Atuando no desenvolvimento de soluções web com forte atuação em projetos vol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-
 <img
     width="30px" 
     style="padding-right: 10px;"
