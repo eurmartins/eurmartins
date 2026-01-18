@@ -4,7 +4,7 @@
 
 Me chamo Victor Martins. Atualmente estou trabalhando na empresa TimeSaver.
 <br/>
-Atuando no desenvolvimento de soluções web com forte atuação em projetos voltados para área da saúde. Atualmente tenho focado em aperfeiçoar minhas habilidades com Python e TypeScript.
+Atuando no desenvolvimento de soluções web com forte atuação em projetos voltados para área da saúde. Atualmente tenho focado em aperfeiçoar minhas habilidades com Python e Java.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victormartinssantos" target="_blank" rel="noopener noreferrer">
