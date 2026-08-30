@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Victor Martins. Atualmente estou trabalhando na empresa TimeSaver.
+Me chamo Victor Martins. Atualmente estou trabalhando na empresa Tecban.
 <br/>
 Atuando no desenvolvimento de soluções web com forte atuação em projetos voltados para área da saúde. Atualmente tenho focado em aperfeiçoar minhas habilidades com Python e Java.
 
